@@ -10,3 +10,5 @@ Cost function decrease during training. Finding the optimal number of nodes.
   <img src="Nodes20.png" width="300" />
 </p>
 
+Optimal learning rate testing.
+![Diagram](learning_rate.jpg)
