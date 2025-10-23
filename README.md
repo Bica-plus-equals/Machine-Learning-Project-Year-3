@@ -4,11 +4,13 @@ Feed Forward Neural Network based on a simple perceptron-architecture for binary
 ![Diagram](Results10000.png)
 
 
-Cost function decrease during training. Finding the optimal number of nodes. 
-<p float="left">
-  <img src="Cost20.png" width="300" />
-  <img src="Nodes20.png" width="300" />
-</p>
+<div align="center">
 
-Optimal learning rate testing.
-![Diagram](learning_rate.jpg)
+  <p>Cost function decrease during training. Finding the optimal number of nodes.</p>
+
+  <p float="left">
+    <img src="Cost20.png" width="300" />
+    <img src="Nodes20.png" width="300" />
+  </p>
+
+</div>
